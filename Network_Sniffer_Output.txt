@@ -1,0 +1,25 @@
+Network Sniffer – Sample Output
+
+Project 3: Basic Network Sniffer
+
+1. Expected Output (Successful)
+
+===== BASIC NETWORK SNIFFER =====
+Network Sniffer Started!
+Listening for network packets...
+===== PROGRAM ENDED =====
+
+2. Expected Output (Permission Error)
+
+===== BASIC NETWORK SNIFFER =====
+Permission denied!
+Administrator access is required.
+===== PROGRAM ENDED =====
+
+3. Explanation
+
+1. Network Sniffer Started: Socket was created successfully.
+2. Listening for network packets: Program is ready to listen.
+3. Permission denied: Device does not allow raw socket access.
+
+Note: These are sample outputs for documentation. They are not verified execution results.
