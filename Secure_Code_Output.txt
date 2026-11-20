@@ -1,0 +1,34 @@
+Secure Login System – Sample Output
+
+Project 2: Secure Coding Review
+
+1. Successful Login
+
+Enter username: admin
+Enter password: Admin@123
+
+Login Successful!
+Password is protected.
+
+Create a new password: Isha@1234
+Password Accepted!
+
+2. Invalid Login
+
+Enter username: isha
+Enter password: 123456
+
+Invalid Login!
+Password is protected.
+
+Create a new password: 1234
+Password is too short!
+
+3. Explanation
+
+- The first output shows successful login.
+- The second output shows an invalid login.
+- Password information is not printed by the program.
+- Password length is checked before accepting a new password.
+
+Note: These are sample outputs for documentation. Actual output may differ depending on the entered values.
